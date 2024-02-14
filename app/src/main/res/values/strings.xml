@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hw3</string>
+    <string name="album_cover">album_cover</string>
+    <string name="button_play">button_play</string>
+    <string name="button_previous">button_previous</string>
+    <string name="button_next">button_next</string>
+    <string name="executor">Исполнитель</string>
+    <string name="composition_name">Наименование композиции</string>
+</resources>
